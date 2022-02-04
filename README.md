@@ -102,7 +102,7 @@ Consider your own successes and failures in relation to the Leadership Principle
 
 ### Situation
 
-What was it that your team was trying to achieve
+What was it that your team was trying to achieve?
 
 ### Behavior
 
