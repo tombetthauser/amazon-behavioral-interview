@@ -10,7 +10,7 @@ Most of the information in this readme is taken directly from various free resou
 
 ## The Amazon Leadership Principles
 
-Leadership Principles are used when discussing ideas for new projects or deciding on the best approach to solving a problem. All job candidates are evaluated based leadership principles (at certain companies). The best way to prepare for an interview that might cover these specific leadership principles is to consider how you’ve applied these Leadership Principles in your previous professional experience.
+"Leadership Principles are used when discussing ideas for new projects or deciding on the best approach to solving a problem. All job candidates are evaluated based leadership principles (at certain companies). The best way to prepare for an interview that might cover these specific leadership principles is to consider how you’ve applied these Leadership Principles in your previous professional experience." [from Amazon]
 
 ---
 
