@@ -70,27 +70,27 @@ Leadership Principles are used when discussing ideas for new projects or decidin
 
 ---
 
-# STAR Answer Format (as described by Amazon)
+## STAR Answer Format (as described by Amazon)
 
 The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of what you're describing. Here’s what it looks like:
  
 
-## Situation
+### Situation
 
 Describe the situation that you were in, or the task that you needed to accomplish. Give enough detail for the interviewer to understand the complexities of the situation. This example can be from a previous job, school project, volunteer activity, or any relevant event.
  
 
-## Task
+### Task
 
 What goal were you working toward?
  
 
-## Action  
+### Action  
 
 Describe the actions you took to address the situation with an appropriate amount of detail, and keep the focus on you. What specific steps did you take? What was your particular contribution? Be careful that you don’t describe what the team or group did when talking about a project. Let us know what you actually did. Use the word “I,” not “we,” when describing actions.
  
 
-## Result
+### Result
 
 Describe the outcome of your actions and don’t be shy about taking credit for your behavior. What happened? How did the event end? What did you accomplish? What did you learn? Provide examples using metrics or data if applicable.
 
@@ -98,50 +98,50 @@ Consider your own successes and failures in relation to the Leadership Principle
 
 ---
 
-# SBI Answer Format (as described by Amazon) 
+## SBI Answer Format (as described by Amazon) 
 
-## Situation
+### Situation
 
 What was it that your team was trying to achieve
 
-## Behavior
+### Behavior
 
 What was your plan of action? What did you do?
 
-## Impact
+### Impact
 
 What was the outcome? (measure impact with data) How many customers did you impact? What was the dollar value in business?
 
 ---
 
-# Amazon's Leadership Principles
+## The Leadership Principles & Sample Behavioral Questions
 
 [Youtube Video of Jeff Bezos Discussing Each Principle](https://www.youtube.com/watch?v=B-xdfQv3I1k)
 
-## 1. Customer Obsession
+### 1. Customer Obsession
 
 Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you had to make a deciscion about how to best serve a customer or group of costomers."
  
 ---
  
-## 2. Ownership
+### 2. Ownership
  
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say, “that’s not my job."
 
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you had to make a deciscion between long-term value or short-term results."
 * "Tell me about a time when you had to make a deciscion between acting on behalf of the entire company or just your team."
  
 ---
  
-## 3. Invent and Simplify
+### 3. Invent and Simplify
  
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
 
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you had to innovate or invent a solution."
 * "Tell me about a time when you had to make a deciscion about simplification."
 * "Tell me about a time when you had to look for new ideas."
@@ -150,11 +150,11 @@ Leaders expect and require innovation and invention from their teams and always 
 
 ---
  
-## 4. Are Right, A Lot
+### 4. Are Right, A Lot
 
 Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you were right about a judgement or deciscion you made."
 * "Tell me about a time when you had to make a judgment based on instinct."
 * "Tell me about a time when you had to seek out other perspectives."
@@ -162,88 +162,127 @@ Leaders are right a lot. They have strong judgment and good instincts. They seek
 
 ---
  
-## 5. Learn and Be Curious
+### 5. Learn and Be Curious
  
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
  
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you had to keep learning to accomplish a task."
 * "Tell me about a time when you sought out an oppourtunity to improve yourself at work."
 * "Tell me about a time when you had to keep learning to accomplish a task."
 
 ---
  
-## 6. Hire and Develop the Best
+### 6. Hire and Develop the Best
 Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others. We work on behalf of our people to invent mechanisms for development like Career Choice.
  
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you had to keep learning to accomplish a task."
 * "Tell me about a time when you sought out an oppourtunity to improve yourself at work."
 * "Tell me about a time when you had to keep learning to accomplish a task."
 
 ---
  
-## 7. Insist on the Highest Standards
+### 7. Insist on the Highest Standards
  
 Leaders have relentlessly high standards — many people may think these standards are unreasonably high. Leaders are continually raising the bar and drive their teams to deliver high quality products, services, and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 
-#### Possible Questions Brainstorm (not from Amazon):
+#### Possible Questions (not from Amazon):
 * "Tell me about a time when you had to make a decision about how to enforce high standards."
 * "Tell me about a time when you raised the bar for your team."
 * "Tell me about a time when you were challanged to deliver a high quality product."
  
 ---
  
-## 8. Think Big
+### 8. Think Big
  
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
-#### Possible Questions Brainstorm (not from Amazon):
-* "Tell me about a time when you had to think big to accomplish womething at work."
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you had to think big to accomplish something at work."
 * "Tell me about a time when you accomplished something at work through bold action."
 * "Tell me about a time when you had to think differently and look ahead to serve your customers."
 
 ---
  
-## 9. Bias for Action
+### 9. Bias for Action
  
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you had to work under a deadline that seemed impossible."
+* "Tell me about a time when you made a deciscion at work that had to be reversed or corrected later."
+* "Tell me about a time when you had to take a risk on a project at work."
+
 ---
  
-## 10. Frugality
+### 10. Frugality
  
 Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you had to make due with limited resources at work."
+* "Tell me about a time when you had to be self-sufficient in a challenging work situation."
  
 ---
  
-## 11. Earn Trust
+### 11. Earn Trust
 
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best.
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you had to communicate something negative at work while remaining respectful and positive."
+* "Tell me about a time when you miscommunicated something to a coworker and had to correct the miscommunication."
+* "Tell me about a time when you had to communicate a mistep you made in a leadership role."
  
 ---
  
-## 12. Dive Deep
+### 12. Dive Deep
  
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
- 
-Have Backbone; Disagree and Commit
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you performed a duty outside or beneath your job description."
+* "Tell me about a time when you discovered that something was being miscommunicated by a coworker."
+
+---
+
+### 13. Have Backbone; Disagree and Commit
+
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you had to work with a decision that you disagreed with."
+* "Tell me about a time when you challenged a decision that was made by a teammate or superior."
  
 ---
  
-## 13. Deliver Results
+### 14. Deliver Results
  
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you worked through setbacks to meet a deadline at work."
  
 ---
  
-## 14. Strive to be Earth’s Best Employer
+### 15. Strive to be Earth’s Best Employer
  
 Leaders work every day to create a safer, more productive, higher performing, more diverse, and more just work environment. They lead with empathy, have fun at work, and make it easy for others to have fun. Leaders ask themselves: Are my fellow employees growing? Are they empowered? Are they ready for what's next? Leaders have a vision for and commitment to their employees' personal success, whether that be at Amazon or elsewhere.
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you were the earth's best employer." (joke)
+* "Tell me about a time when you did something to make your work environment better for your teammates."
+* "Tell me about a time when you helped other members of your team grow."
+* "Tell me about a time when you helped empower other members of your team."
+* "Tell me about a time when you helped make your work environment more fun while still remaining productive and on task."
  
 ---
 
-## 15. Success and Scale Bring Broad Responsibility
+### 16. Success and Scale Bring Broad Responsibility
  
 We started in a garage, but we're not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. We must begin each day with a determination to make better, do better, and be better for our customers, our employees, our partners, and the world at large. And we must end every day knowing we can do even more tomorrow. Leaders create more than they consume and always leave things better than how they found them.
+
+#### Possible Questions (not from Amazon):
+* "Tell me about a time when you dealt with an issue related to scaling at work."
+* "Tell me about a time when you went the extra mile to help a customer."
