@@ -4,7 +4,7 @@
 
 Just an example of what a behavioral interview process looks like at a top company and an excuse to explore sample behavioral questions and the STAR / SBI response techniques. Shooting for a FAANG company during your first job search is an extremely challenging path but it happens every day to Computer Science and Bootcamp graduates alike. With that said many developers wait until their second job search to consider taking the challenge on, while many other developers are simply not interested in a FAANG career path. 
 
-Most of the information in this readme is taken directly from various free resources provided by Amazon. Many of these questions will seem like they are geared towards developers with 2+ years experience but you absolutely can successfully respond to these behavioral questions with no experience in the industry, as is the case with most behavioral questions from software companies.
+Most of the information in this readme is taken directly from various free resources provided by Amazon. Many of these questions will seem like they are geared towards developers with 2+ years experience but you absolutely can successfully respond to these behavioral questions with no experience in the industry, as is the case with many if not most behavioral questions from software companies.
 
 ---
 
@@ -75,26 +75,42 @@ Leadership Principles are used when discussing ideas for new projects or decidin
 The STAR method is a structured manner of responding to a behavioral-based interview question by discussing the specific situation, task, action, and result of what you're describing. Here’s what it looks like:
  
 
-## SITUATION
+## Situation
 
 Describe the situation that you were in, or the task that you needed to accomplish. Give enough detail for the interviewer to understand the complexities of the situation. This example can be from a previous job, school project, volunteer activity, or any relevant event.
  
 
-## TASK
+## Task
 
 What goal were you working toward?
  
 
-## ACTION  
+## Action  
 
 Describe the actions you took to address the situation with an appropriate amount of detail, and keep the focus on you. What specific steps did you take? What was your particular contribution? Be careful that you don’t describe what the team or group did when talking about a project. Let us know what you actually did. Use the word “I,” not “we,” when describing actions.
  
 
-## RESULT
+## Result
 
 Describe the outcome of your actions and don’t be shy about taking credit for your behavior. What happened? How did the event end? What did you accomplish? What did you learn? Provide examples using metrics or data if applicable.
 
 Consider your own successes and failures in relation to the Leadership Principles. Have specific examples that showcase your expertise, and demonstrate how you’ve taken risks, succeeded, failed and grown in the process. Keep in mind, some of Amazon’s most successful programs have risen from the ashes of failed projects. Failure is a necessary part of innovation. It’s not optional. We understand that and believe in failing early and iterating until we get it right.
+
+---
+
+# SBI Answer Format (as described by Amazon) 
+
+## Situation
+
+What was it that your team was trying to achieve
+
+## Behavior
+
+What was your plan of action? What did you do?
+
+## Impact
+
+What was the outcome? (measure impact with data) How many customers did you impact? What was the dollar value in business?
 
 ---
 
