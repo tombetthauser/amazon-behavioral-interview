@@ -2,7 +2,7 @@
 
 # The Amazon Behavioral Interview
 
-Just an example of what a behavioral interview process looks like at a top company and an excuse to explore sample behavioral questions and the STAR / SBI response techniques. Shooting for a FAANG company during your first job search is an extremely challenging path but it happens every day to Computer Science and Bootcamp graduates alike. With that said many developers wait until their second job search to consider taking the challenge on. 
+Just an example of what a behavioral interview process looks like at a top company and an excuse to explore sample behavioral questions and the STAR / SBI response techniques. Shooting for a FAANG company during your first job search is an extremely challenging path but it happens every day to Computer Science and Bootcamp graduates alike. With that said many developers wait until their second job search to consider taking the challenge on, while many other developers are simply not interested in a FAANG career path. 
 
 Most of the information in this readme is taken directly from various free resources provided by Amazon. Many of these questions will seem like they are geared towards developers with 2+ years experience but you absolutely can successfully respond to these behavioral questions with no experience in the industry, as is the case with most behavioral questions from software companies.
 
